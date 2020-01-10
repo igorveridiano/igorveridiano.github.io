@@ -40,3 +40,12 @@ body {
 .black {
     background-color: black;
 }
+
+p {
+    color: white;
+    font-size: 18px;
+}
+
+.color {
+    color: red;
+}
